@@ -219,7 +219,7 @@ public class MainWindows {
 		row[0] = "4";
 		row[1] = "Livre";
 		row[2] = "89";
-		row[3] = "Roman policier";
+		row[3] = "Roman SF";
 		model.addRow(row);
 	}
 }
