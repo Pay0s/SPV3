@@ -215,5 +215,11 @@ public class MainWindows {
 		row[2] = "84";
 		row[3] = "Viande blanche";
 		model.addRow(row);
+		
+		row[0] = "4";
+		row[1] = "Livre";
+		row[2] = "89";
+		row[3] = "Roman policier";
+		model.addRow(row);
 	}
 }
